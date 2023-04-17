@@ -1,0 +1,2 @@
+1	MXMR0001	CLC Lecture Hall 1	Lecture Hall	For large class size	
+2	MXMR0002	CLC Lecture Hall 2	Lecture Hall	For large class size	
